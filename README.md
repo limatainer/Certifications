@@ -1,9 +1,15 @@
-# Welcome to My Certifications Repo
+# This is my certifications repository
 
-<ol>
-  <li><b>Bootcamps</b></li>
-  <li><b>Seminars</b></li>
-  <li><b>Full Stack</b></li>
-  <li><b>Frameworks</b></i>
-  <li><b>Mentoring</b></i>
-</ol>
+A short description about this repo
+
+## Skills
+
+LoremLorem
+
+### Navigation
+
+Lorem Lorem
+
+- You need this
+- And you need this
+- Oh, and don't forget this
