@@ -1,15 +1,34 @@
 # This is my certifications repository
 
-A short description about this repo
+This list is the result of 4 years of coding studies to showcase my learning history
 
-## Skills
+## Contact
 
-LoremLorem
+Mariana Lima - [@limacodes](https://www.linkedin.com/in/marianacousseiro/) - limas.code@gmail.com
 
-### Navigation
+Know more: [Personal Website](https://limatainer.vercel.app/)
 
-Lorem Lorem
+### Basic Foundation
 
-- You need this
-- And you need this
-- Oh, and don't forget this
+- [Logic and Algorithm](https://github.com/limatainer/Certifications/tree/main/Logica%20e%20algoritmo%20-%20CERTIFICATES)
+- [Javascript](https://github.com/limatainer/Certifications/tree/main/JavaScript%20-%20CERTIFICATES)
+- [Python](https://github.com/limatainer/Certifications/tree/main/PYTHON%20CERTIFICATES)
+- [.Net C#](https://github.com/limatainer/Certifications/tree/main/Sistemas-%20CERTIFICATES)
+- [Systems](https://github.com/limatainer/Certifications/tree/main/Sistemas%20e%20Hardware%20-%20CERTIFICATES)
+- [Git](https://github.com/limatainer/Certifications/tree/main/gitHub%20-%20CERTIFICATES)
+
+### RPA, AI, Data
+
+- [Uipath](https://github.com/limatainer/Certifications/tree/main/UIpath%20Certificates)
+- [Chatbot](https://github.com/limatainer/Certifications/tree/main/Chatbot%20-%20CERTIFICATES)
+- [DataScience](https://github.com/limatainer/Certifications/tree/main/Data%20Science%20-%20CERTIFICATES)
+
+### Web Development
+
+- [Frameworks](https://github.com/limatainer/Certifications/tree/main/Frameworks%20-%20CERTIFICATES)
+- [Fullstack](https://github.com/limatainer/Certifications/tree/main/Full%20Stack%20-%20CERTIFICATES)
+
+### Personal development
+
+- [Mentoring Programs](https://github.com/limatainer/Certifications/tree/main/Mentor%20Programs)
+- [Seminars](https://github.com/limatainer/Certifications/tree/main/Seminarios)
