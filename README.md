@@ -22,6 +22,7 @@ Know more: [Personal Website](https://limatainer.vercel.app/)
 - [Uipath](https://github.com/limatainer/Certifications/tree/main/UIpath%20Certificates)
 - [Chatbot](https://github.com/limatainer/Certifications/tree/main/Chatbot%20-%20CERTIFICATES)
 - [DataScience](https://github.com/limatainer/Certifications/tree/main/Data%20Science%20-%20CERTIFICATES)
+- [AI](https://github.com/limatainer/Certifications/tree/main/AI%20CERTIFICATES)
 
 ### Web Development
 
