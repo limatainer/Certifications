@@ -1,35 +1,49 @@
-# This is my certifications repository
+# Certifications Repository
 
-This list is the result of 4 years of coding studies to showcase my learning history
+Welcome to my collection of technical certifications and achievements earned throughout 4+ years of continuous learning in software development, automation, data science, mentoring programs, and AI. This repository documents my technical growth journey across multiple programming languages, frameworks, and technologies.
 
 ## Contact
 
 Mariana Lima - [@limacodes](https://www.linkedin.com/in/marianacousseiro/) - limas.code@gmail.com
 
-Know more: [Personal Website](https://limatainer.vercel.app/)
+Know more: [Personal Website](https://my-landing-theta.vercel.app)
+
+## 📚 Categories
 
 ### Basic Foundation
 
+Core programming concepts and version control fundamentals
+
 - [Logic and Algorithm](https://github.com/limatainer/Certifications/tree/main/Logica%20e%20algoritmo%20-%20CERTIFICATES)
-- [Javascript](https://github.com/limatainer/Certifications/tree/main/JavaScript%20-%20CERTIFICATES)
+- [JavaScript](https://github.com/limatainer/Certifications/tree/main/JavaScript%20-%20CERTIFICATES)
 - [Python](https://github.com/limatainer/Certifications/tree/main/PYTHON%20CERTIFICATES)
-- [.Net C#](https://github.com/limatainer/Certifications/tree/main/Sistemas-%20CERTIFICATES)
-- [Systems](https://github.com/limatainer/Certifications/tree/main/Sistemas%20e%20Hardware%20-%20CERTIFICATES)
-- [Git](https://github.com/limatainer/Certifications/tree/main/gitHub%20-%20CERTIFICATES)
+- [.NET C#](https://github.com/limatainer/Certifications/tree/main/Sistemas-%20CERTIFICATES)
+- [Systems & Hardware](https://github.com/limatainer/Certifications/tree/main/Sistemas%20e%20Hardware%20-%20CERTIFICATES)
+- [Git & GitHub](https://github.com/limatainer/Certifications/tree/main/gitHub%20-%20CERTIFICATES)
 
-### RPA, AI, Data
+### RPA, AI & Data
 
-- [Uipath](https://github.com/limatainer/Certifications/tree/main/UIpath%20Certificates)
-- [Chatbot](https://github.com/limatainer/Certifications/tree/main/Chatbot%20-%20CERTIFICATES)
-- [DataScience](https://github.com/limatainer/Certifications/tree/main/Data%20Science%20-%20CERTIFICATES)
-- [AI](https://github.com/limatainer/Certifications/tree/main/AI)
+Automation, artificial intelligence, and data science specializations
+
+- [UiPath RPA](https://github.com/limatainer/Certifications/tree/main/UIpath%20Certificates)
+- [Chatbot Development](https://github.com/limatainer/Certifications/tree/main/Chatbot%20-%20CERTIFICATES)
+- [Data Science](https://github.com/limatainer/Certifications/tree/main/Data%20Science%20-%20CERTIFICATES)
+- [Artificial Intelligence](https://github.com/limatainer/Certifications/tree/main/AI)
 
 ### Web Development
 
-- [Frameworks](https://github.com/limatainer/Certifications/tree/main/Frameworks%20-%20CERTIFICATES)
-- [Fullstack](https://github.com/limatainer/Certifications/tree/main/Full%20Stack%20-%20CERTIFICATES)
+Modern web technologies and full-stack development
 
-### Personal development
+- [Frameworks](https://github.com/limatainer/Certifications/tree/main/Frameworks%20-%20CERTIFICATES)
+- [Full Stack](https://github.com/limatainer/Certifications/tree/main/Full%20Stack%20-%20CERTIFICATES)
+
+### Professional Development
+
+Leadership, mentoring, and continuous learning initiatives
 
 - [Mentoring Programs](https://github.com/limatainer/Certifications/tree/main/Mentor%20Programs)
-- [Seminars](https://github.com/limatainer/Certifications/tree/main/Seminarios)
+- [Seminars & Workshops](https://github.com/limatainer/Certifications/tree/main/Seminarios)
+
+---
+
+**Note:** All certificates are stored as PDFs and images within their respective folders. This repository is regularly updated with new achievements and certifications.
