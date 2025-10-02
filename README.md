@@ -1,6 +1,6 @@
 # Certifications Repository
 
-Welcome to my collection of technical certifications and achievements earned throughout 4+ years of continuous learning in software development, automation, data science, mentoring programs, and AI. This repository documents my technical growth journey across multiple programming languages, frameworks, and technologies.
+Welcome to my collection of technical certifications and achievements earned throughout 6+ years of continuous learning in software development, automation, data science, mentoring programs, and AI. This repository documents my technical growth journey across multiple programming languages, frameworks, and technologies.
 
 ## Contact
 
