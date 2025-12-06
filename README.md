@@ -14,35 +14,35 @@ Know more: [Personal Website](https://my-landing-theta.vercel.app)
 
 Core programming concepts and version control fundamentals
 
-- [Logic and Algorithm](https://github.com/limatainer/Certifications/tree/main/Logica%20e%20algoritmo%20-%20CERTIFICATES)
-- [JavaScript](https://github.com/limatainer/Certifications/tree/main/JavaScript%20-%20CERTIFICATES)
-- [Python](https://github.com/limatainer/Certifications/tree/main/PYTHON%20CERTIFICATES)
-- [.NET C#](https://github.com/limatainer/Certifications/tree/main/Sistemas-%20CERTIFICATES)
-- [Systems & Hardware](https://github.com/limatainer/Certifications/tree/main/Sistemas%20e%20Hardware%20-%20CERTIFICATES)
-- [Git & GitHub](https://github.com/limatainer/Certifications/tree/main/gitHub%20-%20CERTIFICATES)
+- [Logic and Algorithm](./certificates/Logica%20e%20algoritmo%20-%20CERTIFICATES)
+- [JavaScript](./certificates/JavaScript%20-%20CERTIFICATES)
+- [Python](./certificates/PYTHON%20CERTIFICATES)
+- [.NET C#](./certificates/Sistemas-%20CERTIFICATES)
+- [Systems & Hardware](./certificates/Sistemas%20e%20Hardware%20-%20CERTIFICATES)
+- [Git & GitHub](./certificates/gitHub%20-%20CERTIFICATES)
 
 ### RPA, AI & Data
 
 Automation, artificial intelligence, and data science specializations
 
-- [UiPath RPA](https://github.com/limatainer/Certifications/tree/main/UIpath%20Certificates)
-- [Chatbot Development](https://github.com/limatainer/Certifications/tree/main/Chatbot%20-%20CERTIFICATES)
-- [Data Science](https://github.com/limatainer/Certifications/tree/main/Data%20Science%20-%20CERTIFICATES)
-- [Artificial Intelligence](https://github.com/limatainer/Certifications/tree/main/AI)
+- [UiPath RPA](./certificates/UIpath%20Certificates)
+- [Chatbot Development](./certificates/Chatbot%20-%20CERTIFICATES)
+- [Data Science](./certificates/Data%20Science%20-%20CERTIFICATES)
+- [Artificial Intelligence](./certificates/AI)
 
 ### Web Development
 
 Modern web technologies and full-stack development
 
-- [Frameworks](https://github.com/limatainer/Certifications/tree/main/Frameworks%20-%20CERTIFICATES)
-- [Full Stack](https://github.com/limatainer/Certifications/tree/main/Full%20Stack%20-%20CERTIFICATES)
+- [Frameworks](./certificates/Frameworks%20-%20CERTIFICATES)
+- [Full Stack](./certificates/Full%20Stack%20-%20CERTIFICATES)
 
 ### Professional Development
 
 Leadership, mentoring, and continuous learning initiatives
 
-- [Mentoring Programs](https://github.com/limatainer/Certifications/tree/main/Mentor%20Programs)
-- [Seminars & Workshops](https://github.com/limatainer/Certifications/tree/main/Seminarios)
+- [Mentoring Programs](./certificates/Mentor%20Programs)
+- [Seminars & Workshops](./certificates/Seminarios)
 
 ---
 

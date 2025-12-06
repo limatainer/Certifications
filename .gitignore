@@ -1,3 +1,5 @@
 # misc
 .DS_Store
 ._README.md
+.Claude
+*.claude
